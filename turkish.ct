@@ -1,9 +1,9 @@
-## version $VER: pointer.catalog 1.0 (23.12.2020)
-## language tÃ¼rkÃ§e
+## version $VER: pointer.catalog 2.0 (23.12.2020)
+## language türkçe
 ## codeset 12
 ;
 MSG_WINTITLE
-Ä°ÅŸaretÃ§i TerÃ§ihleri
+Ýþaretçi Terçihleri
 ; Pointer Preferences
 ;
 MSG_OK
@@ -19,11 +19,11 @@ Alpha
 ; Alpha
 ;
 MSG_FILENAME
-Dosya adÄ±
+Dosya adý
 ; Filename
 ;
 MSG_TYPE
-TÃ¼r
+Tür
 ; Type
 ;
 MSG_TYPE_NORMAL
@@ -31,10 +31,10 @@ Normal
 ; Normal
 ;
 MSG_TYPE_BUSY
-MeÅŸkul
+Meþkul
 ; Busy
 ;
 MSG_SETVIEW
-Ayarla / GÃ¶ster
+Ayarla / Göster
 ; Set / View
 ;
