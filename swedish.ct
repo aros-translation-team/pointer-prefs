@@ -1,0 +1,40 @@
+## version $VER: pointer.catalog 2.0 (06.08.2026)
+## language svenska
+## codeset 0
+;
+MSG_WINTITLE
+Pekarinställningar
+; Pointer Preferences
+;
+MSG_OK
+OK
+; OK
+;
+MSG_HOTSPOT
+ Träffpunkt
+;  Hotspot
+;
+MSG_ALPHA
+Alfa
+; Alpha
+;
+MSG_FILENAME
+Filnamn
+; Filename
+;
+MSG_TYPE
+Typ
+; Type
+;
+MSG_TYPE_NORMAL
+Normal
+; Normal
+;
+MSG_TYPE_BUSY
+Upptagen
+; Busy
+;
+MSG_SETVIEW
+Ange / Visa
+; Set / View
+;

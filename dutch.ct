@@ -1,0 +1,40 @@
+## version $VER: pointer.catalog 2.0 (06.08.2026)
+## language nederlands
+## codeset 0
+;
+MSG_WINTITLE
+Muiswijzerinstellingen
+; Pointer Preferences
+;
+MSG_OK
+OK
+; OK
+;
+MSG_HOTSPOT
+ Actief punt
+;  Hotspot
+;
+MSG_ALPHA
+Transparantie
+; Alpha
+;
+MSG_FILENAME
+Bestandsnaam
+; Filename
+;
+MSG_TYPE
+Type
+; Type
+;
+MSG_TYPE_NORMAL
+Normaal
+; Normal
+;
+MSG_TYPE_BUSY
+Bezig
+; Busy
+;
+MSG_SETVIEW
+Instellen / Tonen
+; Set / View
+;

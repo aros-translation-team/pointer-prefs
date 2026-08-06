@@ -1,0 +1,40 @@
+## version $VER: pointer.catalog 2.0 (06.08.2026)
+## language magyar
+## codeset 5
+;
+MSG_WINTITLE
+Egérmutató beállítások
+; Pointer Preferences
+;
+MSG_OK
+Oké
+; OK
+;
+MSG_HOTSPOT
+ Forrópont
+;  Hotspot
+;
+MSG_ALPHA
+Alfa
+; Alpha
+;
+MSG_FILENAME
+Fájlnév
+; Filename
+;
+MSG_TYPE
+Típus
+; Type
+;
+MSG_TYPE_NORMAL
+Normál
+; Normal
+;
+MSG_TYPE_BUSY
+Elfoglalt
+; Busy
+;
+MSG_SETVIEW
+Beállítás / Megtekintés
+; Set / View
+;

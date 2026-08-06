@@ -1,0 +1,40 @@
+## version $VER: pointer.catalog 2.0 (06.08.2026)
+## language suomi
+## codeset 0
+;
+MSG_WINTITLE
+Osoitinasetukset
+; Pointer Preferences
+;
+MSG_OK
+Hyväksy
+; OK
+;
+MSG_HOTSPOT
+ Kohdistuspiste
+;  Hotspot
+;
+MSG_ALPHA
+Alpha
+; Alpha
+;
+MSG_FILENAME
+Tiedostonimi
+; Filename
+;
+MSG_TYPE
+Tyyppi
+; Type
+;
+MSG_TYPE_NORMAL
+Normaali
+; Normal
+;
+MSG_TYPE_BUSY
+Varattu
+; Busy
+;
+MSG_SETVIEW
+Aseta / Näytä
+; Set / View
+;

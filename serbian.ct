@@ -1,0 +1,40 @@
+## version $VER: pointer.catalog 2.0 (06.08.2026)
+## language srpski
+## codeset 8
+;
+MSG_WINTITLE
+PodeÁavanja pokazivaüa
+; Pointer Preferences
+;
+MSG_OK
+OK
+; OK
+;
+MSG_HOTSPOT
+ Aktivna taüka
+;  Hotspot
+;
+MSG_ALPHA
+Alfa
+; Alpha
+;
+MSG_FILENAME
+Ime fajla
+; Filename
+;
+MSG_TYPE
+Tip
+; Type
+;
+MSG_TYPE_NORMAL
+Normalno
+; Normal
+;
+MSG_TYPE_BUSY
+Zauzet
+; Busy
+;
+MSG_SETVIEW
+Postavi / Prikaßi
+; Set / View
+;
